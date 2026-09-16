@@ -1,6 +1,6 @@
 # 🌌 Mobile
 
-UMC EWHA 11th PE Mobile 레포지토리입니다.
+UMC EWHA 11th PE Mobile 프론트엔드 레포지토리입니다.
 
 ## 🙌 Our Crew
 
